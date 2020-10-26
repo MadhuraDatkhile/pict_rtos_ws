@@ -1,6 +1,13 @@
 # pict_rtos_ws
 This repository is created for the PICT RTOS Workshop. Please fork this repository and push solutions of any assignments into your own fork.
 
+## Presentations
+
+Some of the presentations shown in the workshops can be found here:
+
+- [Introduction to RTOS](https://slides.com/chhajedji/rtos-intro)
+- [Introduction to Bluetooth](https://slides.com/chhajedji/bt-intro)
+
 ## The list of tasks for GIT
 1. To create a branch with your own name e.g. assignments/aditya in the master branch
 2. Create a sub branch in it 
