@@ -8,6 +8,11 @@ Some of the presentations shown in the workshops can be found here:
 - [Introduction to RTOS](https://slides.com/chhajedji/rtos-intro)
 - [Introduction to Bluetooth](https://slides.com/chhajedji/bt-intro)
 
+## Provisioning Apps
+
+- [ESP SoftAP Provisioning](https://play.google.com/store/apps/details?id=com.espressif.provsoftap&hl=en_IN&gl=US)
+- [ESP BLE Provisioning](https://play.google.com/store/apps/details?id=com.espressif.provble&hl=en_IE)
+
 ## The list of tasks for GIT
 1. To create a branch with your own name e.g. assignments/aditya in the master branch
 2. Create a sub branch in it 
